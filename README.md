@@ -1,2 +1,2 @@
 # YZTC
-mongo node  application
+mongo Node Blockchain application
