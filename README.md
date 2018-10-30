@@ -1,2 +1,2 @@
 # YZTC
-mongo Node Blockchain application
+IoT for Blockchain
